@@ -40,6 +40,10 @@ sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O 
 echo Setting up Workspace
 mkdir ./workspace
 
+# Spotify
+echo Setting up Spotify
+snap install spotify
+
 
 
 
