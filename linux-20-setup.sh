@@ -7,6 +7,13 @@
 # Visual Studio Code
 echo Setting up Visual Studio code
 sudo snap install --classic code
+# Install extensions
+# Use `code --list-extensions | xargs -L 1 echo code --install-extension` to add new extensions
+code --install-extension HookyQR.beautify
+code --install-extension ms-python.python
+code --install-extension ms-toolsai.jupyter
+code --install-extension Shan.code-settings-sync
+
 
 # MongoDB
 # https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
