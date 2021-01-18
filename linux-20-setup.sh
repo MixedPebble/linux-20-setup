@@ -51,6 +51,11 @@ mkdir ./workspace
 echo Setting up Spotify
 snap install spotify
 
+# Robo3T
+echo Setting up Robo3T
+snap install robo3t-snap
 
+# Postman
+snap install postman
 
 
