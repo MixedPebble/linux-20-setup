@@ -13,6 +13,7 @@ code --install-extension HookyQR.beautify
 code --install-extension ms-python.python
 code --install-extension ms-toolsai.jupyter
 code --install-extension Shan.code-settings-sync
+code --install-extension eamodio.gitlens
 
 
 # MongoDB
