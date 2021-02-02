@@ -59,8 +59,8 @@ snap install robo3t-snap
 # Postman
 snap install postman
 
-mkdir ./workspace
-cd ./workspace
+# Git Projects
 
+echo Setting up Git Projects
 git clone https://github.com/MixedPebble/cineswipes.git
 git clone https://github.com/MixedPebble/cineswipes-api.git
